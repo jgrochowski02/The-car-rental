@@ -1,0 +1,15 @@
+Brand: Lamborghini; Model: Huracan; License plate: WE98SW1; Colour: orange; Year: 2019;
+Number of Days: 2, from: 5.12,
+Customer: Gregor McKenny, age: 23,PESEL: 9437561747, mobile: 915900023
+
+Brand: Ford; Model: Mustang; License plate: WE9WK81; Colour: Blue; Year: 2019;
+Number of Days: 3, from: 30.11,
+Customer: Jan Kowal, age: 21,PESEL: 01312954951, mobile: 213258961
+
+Brand: BMW; Model: M4; License plate: TK1299R; Colour: Pink; Year: 2021;
+Number of Days: 5, from: 4.12,
+Customer: Peter Park, age: 31,PESEL: 91095788715, mobile: 923182200
+
+Brand: BMW; Model: M4; License plate: TK1299R; Colour: Pink; Year: 2021;
+Number of Days: 1, from: 21.12,
+Customer: Pablo Snack, age: 31,PESEL: 914096154821, mobile: 123812399

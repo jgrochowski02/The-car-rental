@@ -1,0 +1,5 @@
+Brand: BMW; Model: M4; License plate: TK1299R; Colour: Pink; Year: 2021;
+Brand: Audi; Model: TT; License plate: TK811AS; Colour: Black; Year: 2017;
+Brand: Lamborghini; Model: Huracan; License plate: WE98SW1; Colour: orange; Year: 2019;
+Brand: Ferrari; Model: Superfast; License plate: WX12MWI; Colour: red; Year: 2017;
+Brand: Ford; Model: Mustang; License plate: WE9WK81; Colour: Blue; Year: 2019;

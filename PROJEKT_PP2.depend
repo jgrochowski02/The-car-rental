@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1669714704 source:c:\users\48662\onedrive\pulpit\projekt_pp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1669824246 source:c:\users\48662\onedrive\pulpit\project_c_university_of_technology(1st semester)\main.c
+	"CAR_RENTAL.h"
+
+1669824328 source:c:\users\48662\onedrive\pulpit\project_c_university_of_technology(1st semester)\cars.c
+	"CAR_RENTAL.h"
+
+1669824258 c:\users\48662\onedrive\pulpit\project_c_university_of_technology(1st semester)\car_rental.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1669824315 source:c:\users\48662\onedrive\pulpit\project_c_university_of_technology(1st semester)\customers.c
+	"CAR_RENTAL.h"
+
+1669824345 source:c:\users\48662\onedrive\pulpit\project_c_university_of_technology(1st semester)\rent.c
+	"CAR_RENTAL.h"
+
+1669824154 source:c:\users\48662\onedrive\pulpit\project_c_university_of_technology(1st semester)\menu.c
+	"CAR_RENTAL.h"
+
